@@ -1,0 +1,7 @@
+﻿  PKG_Lab2.cpp
+D:\PKG\PKG_Lab2\PKG_Lab2\PKG_Lab2.cpp(189,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\PKG\PKG_Lab2\PKG_Lab2\PKG_Lab2.cpp(233,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\PKG\PKG_Lab2\PKG_Lab2\PKG_Lab2.cpp(271,25): warning C4018: <: несоответствие типов со знаком и без знака
+D:\PKG\PKG_Lab2\PKG_Lab2\PKG_Lab2.cpp(273,29): warning C4018: <: несоответствие типов со знаком и без знака
+D:\PKG\PKG_Lab2\PKG_Lab2\PKG_Lab2.cpp(257,36): warning C4101: bit: неиспользованная локальная переменная
+  PKG_Lab2.vcxproj -> D:\PKG\PKG_Lab2\x64\Debug\PKG_Lab2.exe
